@@ -1,0 +1,125 @@
+{
+  "1": {
+    "kind": "TILE",
+    "name": "Challenge Card",
+    "flipAxis": "Y",
+    "hiddenStyle": "OPAQUE",
+    "orientations": 4,
+    "shape": {
+      "corner": 3.2,
+      "height": 168.4,
+      "kind": "RECTANGLE",
+      "width": 120
+    }
+  },
+  "2": {
+    "kind": "TILE",
+    "name": "Tech Card",
+    "flipAxis": "Y",
+    "hiddenStyle": "OPAQUE",
+    "orientations": 4,
+    "shape": {
+      "corner": 3.2,
+      "height": 168.4,
+      "kind": "RECTANGLE",
+      "width": 120
+    }
+  },
+  "3": {
+    "kind": "CONTAINER",
+    "name": "Card Holder",
+    "hiddenStyle": "OPEN",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 640
+    }
+  },
+  "4": {
+    "kind": "CONTAINER",
+    "name": "Deck User Card Holder",
+    "hiddenStyle": "OPEN",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 128
+    }
+  },
+  "5": {
+    "kind": "CONTAINER",
+    "name": "Discard User Card Holder",
+    "hiddenStyle": "OPEN",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 128
+    }
+  },
+  "6": {
+    "kind": "CONTAINER",
+    "name": "Deck Tech Card Holder",
+    "hiddenStyle": "OPEN",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 128
+    }
+  },
+  "7": {
+    "kind": "CONTAINER",
+    "name": "Discard Tech Card Hold",
+    "hiddenStyle": "OPEN",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 128
+    }
+  },
+  "8": {
+    "kind": "TILE",
+    "name": "Attaboy",
+    "flipAxis": "Y",
+    "hiddenStyle": "OPAQUE",
+    "orientations": 4,
+    "shape": {
+      "kind": "CIRCLE",
+      "radius": 43.007999999999996
+    }
+  },
+  "9": {
+    "kind": "COUNTER",
+    "name": "Flow Counter",
+    "size": 200,
+    "hiddenStyle": "OPAQUE",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 128,
+      "kind": "RECTANGLE",
+      "width": 128
+    }
+  },
+  "10": {
+    "kind": "TILE",
+    "name": "Flow Tile",
+    "flipAxis": "Y",
+    "hiddenStyle": "OPAQUE",
+    "orientations": 4,
+    "shape": {
+      "corner": 8,
+      "height": 64,
+      "kind": "RECTANGLE",
+      "width": 64
+    }
+  }
+}

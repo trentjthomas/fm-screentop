@@ -1,0 +1,222 @@
+{
+  "1": {
+    "kind": "TILE",
+    "name": "Tech",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "2": {
+    "kind": "TILE",
+    "name": "Tech 2",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "3": {
+    "kind": "TILE",
+    "name": "Tech 3",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "4": {
+    "kind": "TILE",
+    "name": "Tech 4",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "5": {
+    "kind": "TILE",
+    "name": "Tech 5",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "6": {
+    "kind": "TILE",
+    "name": "Tech 6",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "7": {
+    "kind": "TILE",
+    "name": "Tech 7",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "8": {
+    "kind": "TILE",
+    "name": "Tech 8",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "9": {
+    "kind": "TILE",
+    "name": "Tech 9",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "10": {
+    "kind": "TILE",
+    "name": "Tech 10",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 2,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "11": {
+    "kind": "TILE",
+    "name": "Hazard",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "12": {
+    "kind": "TILE",
+    "name": "Hazard 2",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "13": {
+    "kind": "TILE",
+    "name": "Hazard 3",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "14": {
+    "kind": "TILE",
+    "name": "Hazard 4",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "15": {
+    "kind": "TILE",
+    "name": "Hazard 5",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "16": {
+    "kind": "TILE",
+    "name": "Hazard 6",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "17": {
+    "kind": "TILE",
+    "name": "Hazard 7",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "18": {
+    "kind": "TILE",
+    "name": "Hazard 8",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "19": {
+    "kind": "TILE",
+    "name": "Hazard 9",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  },
+  "20": {
+    "kind": "TILE",
+    "name": "Hazard 10",
+    "frontFillColor": "#ffffff",
+    "backFillColor": "#ffffff",
+    "strokeColor": "#000000",
+    "frontAsset": "Tech Deck",
+    "frontAssetIndex": 1,
+    "backAsset": "Tech Deck",
+    "backAssetIndex": 3
+  }
+}

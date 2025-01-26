@@ -1,0 +1,16 @@
+{
+  "1": {
+    "kind": "LINE",
+    "name": "Anchor 1",
+    "x0": 0,
+    "y0": 0,
+    "x1": 0,
+    "y1": 0,
+    "gap": 4,
+    "alignment": "CENTER",
+    "capacity": null,
+    "autoRotate": null,
+    "setContainer": null,
+    "setTile": "UP"
+  }
+}
