@@ -1,0 +1,359 @@
+{
+  "1": {
+    "kind": "CONTAINER",
+    "component": "Deck User Card Holder",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 455,
+    "y": -663,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 1",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "2": {
+    "kind": "CONTAINER",
+    "component": "Card Holder",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 31,
+    "y": -661,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 1",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "3": {
+    "kind": "CONTAINER",
+    "component": "Discard User Card Holder",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -438,
+    "y": -659,
+    "rotation": 90,
+    "locked": false,
+    "seats": [
+      "User 1",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "4": {
+    "kind": "CONTAINER",
+    "component": "Card Holder",
+    "tag": "2",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -658,
+    "y": -11,
+    "rotation": 90,
+    "locked": false,
+    "seats": [
+      "User 2",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "5": {
+    "kind": "CONTAINER",
+    "component": "Deck User Card Holder",
+    "tag": "3",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -457,
+    "y": 656,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 3",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "6": {
+    "kind": "CONTAINER",
+    "component": "Card Holder",
+    "tag": "3",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 3,
+    "y": 659,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 3",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "7": {
+    "kind": "CONTAINER",
+    "component": "Card Holder",
+    "tag": "4",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 658,
+    "y": -8,
+    "rotation": 270,
+    "locked": false,
+    "seats": [
+      "User 4",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "8": {
+    "kind": "CONTAINER",
+    "component": "Discard User Card Holder",
+    "tag": "4",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 657,
+    "y": -449,
+    "rotation": 180,
+    "locked": false,
+    "seats": [
+      "User 4",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "9": {
+    "kind": "CONTAINER",
+    "component": "Deck User Card Holder",
+    "tag": "5",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -237,
+    "y": -315,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_ALL",
+    "entries": {}
+  },
+  "10": {
+    "kind": "CONTAINER",
+    "component": "Card Holder",
+    "tag": "5",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 13,
+    "y": -109,
+    "rotation": 180,
+    "locked": false,
+    "seats": [
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "11": {
+    "kind": "CONTAINER",
+    "component": "Discard User Card Holder",
+    "tag": "5",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 265,
+    "y": -316,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "12": {
+    "kind": "CONTAINER",
+    "component": "Deck User Card Holder",
+    "tag": "2",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -656,
+    "y": -446,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 2",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "13": {
+    "kind": "CONTAINER",
+    "component": "Discard User Card Holder",
+    "tag": "2",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -654,
+    "y": 448,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 2",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "14": {
+    "kind": "CONTAINER",
+    "component": "Discard User Card Holder",
+    "tag": "3",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 448,
+    "y": 656,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 3",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "15": {
+    "kind": "CONTAINER",
+    "component": "Deck User Card Holder",
+    "tag": "4",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 659,
+    "y": 467,
+    "rotation": 0,
+    "locked": false,
+    "seats": [
+      "User 4",
+      "Super User"
+    ],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_SEATS",
+    "entries": {}
+  },
+  "16": {
+    "kind": "CONTAINER",
+    "component": "Discard Tech Card Hold",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": 152,
+    "y": 355,
+    "rotation": 0,
+    "locked": false,
+    "seats": [],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_ALL",
+    "entries": {}
+  },
+  "17": {
+    "kind": "CONTAINER",
+    "component": "Deck Tech Card Holder",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "OPEN",
+    "x": -145,
+    "y": 357,
+    "rotation": 0,
+    "locked": false,
+    "seats": [],
+    "viewPolicy": "ALLOW_ALL",
+    "interactPolicy": "ALLOW_ALL",
+    "entries": {}
+  },
+  "18": {
+    "kind": "TILE",
+    "component": "Attaboy",
+    "tag": "6",
+    "variant": "Variant 1",
+    "state": "UP",
+    "x": 240,
+    "y": 6,
+    "rotation": 0,
+    "locked": false,
+    "entries": {}
+  },
+  "19": {
+    "kind": "TILE",
+    "component": "Attaboy",
+    "tag": "5",
+    "variant": "Variant 1",
+    "state": "UP",
+    "x": 536,
+    "y": -153,
+    "rotation": 0,
+    "locked": false,
+    "entries": {}
+  },
+  "20": {
+    "kind": "TILE",
+    "component": "Attaboy",
+    "tag": "1",
+    "variant": "Variant 1",
+    "state": "UP",
+    "x": 158,
+    "y": 542,
+    "rotation": 0,
+    "locked": false,
+    "entries": {}
+  },
+  "21": {
+    "kind": "TILE",
+    "component": "Attaboy",
+    "tag": "2",
+    "variant": "Variant 1",
+    "state": "UP",
+    "x": -538,
+    "y": 154,
+    "rotation": 0,
+    "locked": false,
+    "entries": {}
+  },
+  "22": {
+    "kind": "TILE",
+    "component": "Attaboy",
+    "tag": "4",
+    "variant": "Variant 1",
+    "state": "UP",
+    "x": -159,
+    "y": -548,
+    "rotation": 0,
+    "locked": false,
+    "entries": {}
+  }
+}

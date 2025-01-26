@@ -1,0 +1,27 @@
+{
+  "1": {
+    "name": "Super User",
+    "color": "#3b82f6",
+    "role": "ADMIN"
+  },
+  "2": {
+    "name": "User 1",
+    "color": "#ef4444",
+    "role": "PLAYER"
+  },
+  "3": {
+    "name": "User 2",
+    "color": "#eab308",
+    "role": "PLAYER"
+  },
+  "4": {
+    "name": "User 3",
+    "color": "#22c55e",
+    "role": "PLAYER"
+  },
+  "5": {
+    "name": "User 4",
+    "color": "#a855f7",
+    "role": "PLAYER"
+  }
+}

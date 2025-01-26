@@ -1,0 +1,15 @@
+{
+  "1": {
+    "name": "Surface 1",
+    "backgroundColor": "#383c42",
+    "axisColor": "#ffffff40",
+    "asset": "Backdrop",
+    "assetTiling": "NONE",
+    "assetScale": 1,
+    "orientations": 4,
+    "playerCursors": "SHOW",
+    "grid": {
+      "kind": "PIXEL"
+    }
+  }
+}
